@@ -1,0 +1,6 @@
+train: 1_datapreparation/data_images/train
+val: 1_datapreparation/data_images/test
+nc: 2
+names:
+  - 'potato_leaf'
+  - 'potato_plant'

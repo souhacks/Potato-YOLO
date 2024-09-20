@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>potato1.jpg</filename>
+	<path>C:\Users\cdac\Documents\yolo_object_detection\notes\1_datapreparation\data_images\potato1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potato_leaf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>19</ymin>
+			<xmax>359</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>
